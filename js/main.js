@@ -31,7 +31,7 @@ const sr = ScrollReveal({
 
 // scroll home
 sr.reveal('.home__title',{});
-sr.reveal('.button',{delay:200})
+//sr.reveal('.button',{delay:200})
 sr.reveal('.about__text',{delay: 400}); 
 
 /*SCROLL SKILLS*/
